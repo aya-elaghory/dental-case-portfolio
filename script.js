@@ -38,7 +38,7 @@ const slides = [
   },
   {
     src: null,
-    label: "Working length radiograph confirming canal patency and curvature.",
+    label: "master cone radiograph confirming canal length.",
   },
   {
     src: null,
@@ -48,7 +48,7 @@ const slides = [
   {
     src: null,
     label:
-      "Post-operative clinical photograph showing occlusal view after composite build-up.",
+      "Post-operative clinical photograph showing occlusal view after crown.",
   },
 ];
 
